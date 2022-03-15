@@ -1,0 +1,24 @@
+digraph DijkInitGraph {
+node [shape=round];
+v0[shape=diamond];
+v0->v1[style=bold,label=13];
+v0->v6[style=bold,label=1];
+v1->v2[style=bold,label=8];
+v1->v4[style=bold,label=5];
+v1->v9[style=bold,label=1];
+v2->v0[style=bold,label=9];
+v2->v3[style=bold,label=10];
+v2->v9[style=bold,label=7];
+v3->v4[style=bold,label=6];
+v4->v0[style=bold,label=5];
+v4->v2[style=bold,label=8];
+v4->v5[style=bold,label=14];
+v4->v6[style=bold,label=9];
+v5->v6[style=bold,label=10];
+v6->v7[style=bold,label=6];
+v6->v9[style=bold,label=1];
+v7->v8[style=bold,label=12];
+v8->v4[style=bold,label=3];
+v8->v9[style=bold,label=9];
+v9->v0[style=bold,label=11];
+}
