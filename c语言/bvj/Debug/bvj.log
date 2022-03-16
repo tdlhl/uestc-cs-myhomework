@@ -1,0 +1,6 @@
+﻿  源.cpp
+C:\Users\23546\source\repos\bvj\bvj\源.cpp(367,16): warning C4244:  “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\23546\source\repos\bvj\bvj\源.cpp(368,16): warning C4244:  “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\23546\source\repos\bvj\bvj\源.cpp(389,16): warning C4244:  “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\23546\source\repos\bvj\bvj\源.cpp(390,16): warning C4244:  “=”: 从“double”转换到“int”，可能丢失数据
+  bvj.vcxproj -> C:\Users\23546\source\repos\bvj\Debug\bvj.exe
