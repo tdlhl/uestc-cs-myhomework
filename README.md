@@ -1,2 +1,3 @@
-# homework_code
-电子科技大学  19级菜狗  major CS  部分课程的部分代码作业，实验
+Student of University of Electronic Science and Technology of China
+Some of my programming assignments  （major CS）
+泥电19级菜狗  部分课程的部分代码作业，实验
